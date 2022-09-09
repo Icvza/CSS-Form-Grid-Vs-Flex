@@ -96,5 +96,11 @@ button, textarea{
     width: 90%;
 }
 
+header{
+    text-align: center;
+    font-size: 30px;
+    background-color: blue;
+    color: white;
+}
 
 
